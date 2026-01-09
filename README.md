@@ -88,3 +88,9 @@ My focus is on using development best practices and staying up to date with new 
 <br/>
 
 ---
+
+
+<div align="center">
+  <p>💼 Open to collaborations and new opportunities</p>
+  <p>⭐ From <a href="https://github.com/CristianRC7">CristianRC7</a> with ❤️</p>
+</div>
