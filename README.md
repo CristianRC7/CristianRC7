@@ -1,12 +1,21 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Cristian Ramirez <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-<p align="center">
-I'm a developer passionate about technology and creating innovative solutions. I specialize in web and mobile application development, combining functionality, design, and intuitive user experience.
-</p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="70%" valign="top">
 
-<p align="center">
+### About Me 👨‍💻
+
+I'm a developer passionate about technology and creating innovative solutions. I specialize in web and mobile application development, combining functionality, design, and intuitive user experience.
+
 My focus is on using development best practices and staying up to date with new trends and emerging technologies. Beyond software development, I'm passionate about sports, learning new skills, and exploring new technologies.
-</p>
+
+</td>
+<td width="30%" valign="top" align="center">
+<img src="https://github.com/user-attachments/assets/f1b1b442-56c5-4a3c-9de9-2d5aedb8bd87" alt="Cristian Ramirez" width="250" style="border-radius: 50%;"/>
+</td>
+</tr>
+</table>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
@@ -89,8 +98,10 @@ My focus is on using development best practices and staying up to date with new 
 
 ---
 
-
 <div align="center">
-  <p>💼 Open to collaborations and new opportunities</p>
-  <p>⭐ From <a href="https://github.com/CristianRC7">CristianRC7</a> with ❤️</p>
+  <p><strong>💬 Let's connect and build something amazing together!</strong></p>
+  <p>⭐ From <a href="https://github.com/CristianRC7">CristianRC7</a> | Made with ❤️ and ☕</p>
+  <p>© 2025 Cristian Ramirez</p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
